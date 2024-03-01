@@ -1,6 +1,4 @@
-# 📃KITRI-group-project-nomargin-shop
-
-쇼핑몰 클론 코딩 프로젝트
+쇼핑몰
 
 
 
